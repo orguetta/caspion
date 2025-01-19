@@ -79,7 +79,7 @@
     "electron-log": "^5.2.0",
     "electron-updater": "6.3.0",
     "emittery": "^1.0.3",
-    "eslint-plugin-react-hooks": "^4.6.2",
+    "eslint-plugin-react-hooks": "^5.1.0",
     "events": "^3.3.0",
     "googleapis": "^139.0.0",
     "israeli-bank-scrapers-core": "5.2.2",
